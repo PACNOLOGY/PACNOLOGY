@@ -10,7 +10,7 @@
 - [osTicket: Post-Installation Configuration](https://github.com/PACNOLOGY/osTicket---Post-Install-Configuration)
 - [osTicket: Ticket Lifecycle Examples](https://github.com/PACNOLOGY/osTicket-Ticket-Lifecycle-Examples)
 - Microsoft Azure
-- Configuring On-premises Active Directory within Azure VMs
+- [Configuring On-premises Active Directory within Azure VMs](https://github.com/PACNOLOGY/Configuring-On-premises-Active-Directory-within-Azure-VMs)
 - Network Security Groups (NSGs), and Inspecting Network Protocols
 <!---
 PACNOLOGY/PACNOLOGY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
