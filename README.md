@@ -7,7 +7,7 @@
 - Information Technology Projects
 - osTicket (Help Desk Ticketing System)
 - [osTicket: Prerequisites and Installation](https://github.com/PACNOLOGY/osTicket-Prerequisites-and-Installation)
-- [- osTicket: Post-Installation Configuration](https://github.com/PACNOLOGY/osTicket---Post-Install-Configuration)
+- [osTicket: Post-Installation Configuration](https://github.com/PACNOLOGY/osTicket---Post-Install-Configuration)
 - osTicket: Ticket Lifecycle Examples
 
 - Microsoft Azure
