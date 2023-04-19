@@ -8,10 +8,10 @@
 - osTicket (Help Desk Ticketing System)
 - [osTicket: Prerequisites and Installation](https://github.com/PACNOLOGY/osTicket-Prerequisites-and-Installation)
 - [osTicket: Post-Installation Configuration](https://github.com/PACNOLOGY/osTicket---Post-Install-Configuration)
-- osTicket: Ticket Lifecycle Examples
-
+- [osTicket: Ticket Lifecycle Examples](https://github.com/PACNOLOGY/osTicket-Ticket-Lifecycle-Examples)
 - Microsoft Azure
-- Configuring On-premises Active Directory within Azure VMs, Network Security Groups (NSGs), and Inspecting Network Protocols
+- Configuring On-premises Active Directory within Azure VMs
+- Network Security Groups (NSGs), and Inspecting Network Protocols
 <!---
 PACNOLOGY/PACNOLOGY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
