@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Philip, an IT PROFESSIONAL
 - 👀 I’m interested in running apps cross-platform
-- 🌱 I’m currently learning Cloud Management
+- 🌱 I’m currently learning osTicket Management
 - 💞️ I’m looking to collaborate on game and frontend app projects
 - 📫 How to reach me PACNOLOGY@outlook.com
 
