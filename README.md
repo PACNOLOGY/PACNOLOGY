@@ -1,4 +1,4 @@
-# Hi, I’m Philip, an IT PROFESSIONAL.
+# Hi, I’m Philip, an IT Professional.
 - I’m interested in running apps cross-platform as well as making clean and easy User Interface Experiences.
 - I’m currently learning Active Directory Management.
 - I've already learned osTicket management, Azure management, Wireshark, Remote connection, Active Directory installation.
